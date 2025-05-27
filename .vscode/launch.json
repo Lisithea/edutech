@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProgramaPrincipalClassroomApplication<edutech-classroom>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.edutech.classroom.ProgramaPrincipalClassroomApplication",
+            "projectName": "edutech-classroom",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
